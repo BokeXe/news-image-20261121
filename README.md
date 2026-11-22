@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/news-image-20261121/BokeXe/news-image-20261121/rank.svg)](https://make.fun/bounty/news-image-20261121/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 [![reward](https://make.fun/badge/news-image-20261121/BokeXe/news-image-20261121/reward.svg)](https://make.fun/bounty/news-image-20261121?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261121)
 
-Saturday 21 November 2026 in one image: a newspaper front page with 39 date-checked
+Saturday 21 November 2026 in one image: a newspaper front page with 38 date-checked
 stories across 9 regions and 26 fields — three illustrated leads (Iran strikes Bahrain as tankers
 hit in Hormuz; drones set the Russian cargo ship Sparta II ablaze off Finland; COP31
 deadlocked over fossil fuels in overtime), a numbers strip, region coverage bars,
